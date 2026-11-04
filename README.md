@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:**M.MAHENDIRAN 
-- **Register No:** 212225230165  
+- **Name:**Krithik kiran S 
+- **Register No:** 212225230145  
 
 ---
 
@@ -126,7 +126,9 @@ plt.title("Median Blur")
 plt.axis("off")
 plt.show()
 ```
-<img width="393" height="476" alt="image" src="https://github.com/user-attachments/assets/381ed2bd-d38c-4b2a-8303-fc743170f0b8" />
+
+<img width="507" height="490" alt="image" src="https://github.com/user-attachments/assets/4b2eda51-3725-4f60-a971-d3539cc50300" />
+
 
 2. Sharpening Filters
 
